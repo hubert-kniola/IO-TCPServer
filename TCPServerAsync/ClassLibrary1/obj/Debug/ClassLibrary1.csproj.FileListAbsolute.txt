@@ -1,0 +1,2 @@
+C:\Users\Dell\source\repos\TCPServerAsync\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\TCPServerAsync\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
