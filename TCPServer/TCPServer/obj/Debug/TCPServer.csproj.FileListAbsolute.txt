@@ -1,0 +1,9 @@
+C:\Users\Dell\source\repos\TCPServer\TCPServer\bin\Debug\TCPServer.exe
+C:\Users\Dell\source\repos\TCPServer\TCPServer\bin\Debug\TCPServer.pdb
+C:\Users\Dell\source\repos\TCPServer\TCPServer\bin\Debug\ClassLibrary1.dll
+C:\Users\Dell\source\repos\TCPServer\TCPServer\bin\Debug\ClassLibrary1.pdb
+C:\Users\Dell\source\repos\TCPServer\TCPServer\obj\Debug\TCPServer.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\TCPServer\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\TCPServer\TCPServer\obj\Debug\TCPServer.csproj.CopyComplete
+C:\Users\Dell\source\repos\TCPServer\TCPServer\obj\Debug\TCPServer.exe
+C:\Users\Dell\source\repos\TCPServer\TCPServer\obj\Debug\TCPServer.pdb
