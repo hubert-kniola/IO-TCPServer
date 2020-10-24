@@ -1,9 +1,0 @@
-C:\Users\Dell\source\repos\TCPServerAsync\TCPServerAsync\obj\Debug\TCPServerAsync.csprojAssemblyReference.cache
-C:\Users\Dell\source\repos\TCPServerAsync\TCPServerAsync\obj\Debug\TCPServerAsync.csproj.CoreCompileInputs.cache
-C:\Users\Dell\source\repos\TCPServerAsync\TCPServerAsync\bin\Debug\TCPServerAsync.exe
-C:\Users\Dell\source\repos\TCPServerAsync\TCPServerAsync\bin\Debug\TCPServerAsync.pdb
-C:\Users\Dell\source\repos\TCPServerAsync\TCPServerAsync\bin\Debug\ClassLibrary1.dll
-C:\Users\Dell\source\repos\TCPServerAsync\TCPServerAsync\bin\Debug\ClassLibrary1.pdb
-C:\Users\Dell\source\repos\TCPServerAsync\TCPServerAsync\obj\Debug\TCPServerAsync.csproj.CopyComplete
-C:\Users\Dell\source\repos\TCPServerAsync\TCPServerAsync\obj\Debug\TCPServerAsync.exe
-C:\Users\Dell\source\repos\TCPServerAsync\TCPServerAsync\obj\Debug\TCPServerAsync.pdb
