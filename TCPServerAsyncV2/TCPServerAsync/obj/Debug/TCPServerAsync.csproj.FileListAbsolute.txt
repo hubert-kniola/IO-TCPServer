@@ -16,3 +16,15 @@ C:\Users\Dell\Desktop\TCPServerAsyncV2\TCPServerAsync\obj\Debug\TCPServerAsync.c
 C:\Users\Dell\Desktop\TCPServerAsyncV2\TCPServerAsync\obj\Debug\TCPServerAsync.csproj.CopyComplete
 C:\Users\Dell\Desktop\TCPServerAsyncV2\TCPServerAsync\obj\Debug\TCPServerAsync.exe
 C:\Users\Dell\Desktop\TCPServerAsyncV2\TCPServerAsync\obj\Debug\TCPServerAsync.pdb
+C:\Users\Dell\Desktop\TCPServerAsyncV2\TCPServerAsync\bin\Debug\TCPServerAsync.exe.config
+C:\Users\Dell\Desktop\TCPServerAsyncV2\TCPServerAsync\bin\Debug\ClassLibrary2.dll
+C:\Users\Dell\Desktop\TCPServerAsyncV2\TCPServerAsync\bin\Debug\EntityFramework.dll
+C:\Users\Dell\Desktop\TCPServerAsyncV2\TCPServerAsync\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\Desktop\TCPServerAsyncV2\TCPServerAsync\bin\Debug\System.Data.SQLite.dll
+C:\Users\Dell\Desktop\TCPServerAsyncV2\TCPServerAsync\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Dell\Desktop\TCPServerAsyncV2\TCPServerAsync\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Dell\Desktop\TCPServerAsyncV2\TCPServerAsync\bin\Debug\ClassLibrary2.pdb
+C:\Users\Dell\Desktop\TCPServerAsyncV2\TCPServerAsync\bin\Debug\EntityFramework.xml
+C:\Users\Dell\Desktop\TCPServerAsyncV2\TCPServerAsync\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\Desktop\TCPServerAsyncV2\TCPServerAsync\bin\Debug\System.Data.SQLite.xml
+C:\Users\Dell\Desktop\TCPServerAsyncV2\TCPServerAsync\bin\Debug\System.Data.SQLite.dll.config

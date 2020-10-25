@@ -10,3 +10,9 @@ C:\Users\Dell\Desktop\TCPServerAsyncV2\ClassLibrary1\obj\Debug\ServerLibrary.csp
 C:\Users\Dell\Desktop\TCPServerAsyncV2\ClassLibrary1\obj\Debug\ServerLibrary.csproj.CoreCompileInputs.cache
 C:\Users\Dell\Desktop\TCPServerAsyncV2\ClassLibrary1\obj\Debug\ClassLibrary1.dll
 C:\Users\Dell\Desktop\TCPServerAsyncV2\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Dell\Desktop\TCPServerAsyncV2\ClassLibrary1\bin\Debug\ClassLibrary2.dll
+C:\Users\Dell\Desktop\TCPServerAsyncV2\ClassLibrary1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Dell\Desktop\TCPServerAsyncV2\ClassLibrary1\bin\Debug\ClassLibrary2.pdb
+C:\Users\Dell\Desktop\TCPServerAsyncV2\ClassLibrary1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Dell\Desktop\TCPServerAsyncV2\ClassLibrary1\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Dell\Desktop\TCPServerAsyncV2\ClassLibrary1\obj\Debug\ServerLibrary.csproj.CopyComplete

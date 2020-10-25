@@ -11,6 +11,7 @@ namespace ServerLibrary
     /// </summary>
     public abstract class ServerClass
     {
+        #region Fields
         /// <summary>
         /// Rozmiar tablicy bajtów - buffer
         /// </summary>
@@ -39,34 +40,13 @@ namespace ServerLibrary
         /// Obiekt wykorzystywany przez klasę ServerClass to wykonywania niezbędnych operacji
         /// </summary>
         protected TcpListener tcpServer { get; set; } = new TcpListener(IPAddress.Parse("127.0.0.1"), port);
-
-
         /// <summary>
         /// Tablica bajtów przechowująca dane odebrane od klienta
         /// </summary>
         protected byte[] buffer { get; set; } = new byte[1024];
-        protected byte[] buffer1 { get; set; } = new byte[1024];
-        /// <summary>
-        /// Wiadomość o treści "Connected with server!" wysyłana przez serwer do klienta
-        /// </summary>
-        protected byte[] message1 { get; set; } = new ASCIIEncoding().GetBytes("Connected with server!");
-        /// <summary>
-        /// Wiadomość o treści "Enter one number (int): " wysyłana przez serwer do klienta
-        /// </summary>
-        protected byte[] message2 { get; set; } = new ASCIIEncoding().GetBytes("Enter one number (int): ");
-        /// <summary>
-        /// Wiadomość o treści "Disconnected!" wysyłana przez serwer do klienta
-        /// </summary>
-        protected byte[] message3 { get; set; } = new ASCIIEncoding().GetBytes("Disconnected!");
-        /// <summary>
-        /// Wiadomość o treści "n * 2: " wysyłana przez serwer do klienta
-        /// </summary>
-        protected byte[] message4 { get; set; } = new ASCIIEncoding().GetBytes("n * 2: ");
-        /// <summary>
-        /// Wiadomość stanowiąca formę przeniesienia do nowej linii w konsoli klienta
-        /// </summary>
-        protected byte[] message5 { get; set; } = new ASCIIEncoding().GetBytes(" ");
+        #endregion
 
+        #region Metods
         /// <summary>
         /// Metoda klasy ServerClass odpowiedzialna za sprawdzenie czy użytkownik chce rozłączyć się z serwerem
         /// </summary>
@@ -88,6 +68,7 @@ namespace ServerLibrary
         /// Metoda klasy ServerClass odpowiedzialna za obsługę działania serwera
         /// </summary>
         public abstract void Server();
+        #endregion
     }
 }
 

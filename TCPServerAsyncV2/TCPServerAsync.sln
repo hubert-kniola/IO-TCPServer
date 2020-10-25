@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPServerAsync", "TCPServer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerLibrary", "ClassLibrary1\ServerLibrary.csproj", "{644DA58B-7E5A-4311-8343-30E941941D94}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBaseLibrary", "ClassLibrary2\DataBaseLibrary.csproj", "{8A1C18DF-8287-46AC-B1CF-2F268930F234}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{644DA58B-7E5A-4311-8343-30E941941D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{644DA58B-7E5A-4311-8343-30E941941D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{644DA58B-7E5A-4311-8343-30E941941D94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A1C18DF-8287-46AC-B1CF-2F268930F234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A1C18DF-8287-46AC-B1CF-2F268930F234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A1C18DF-8287-46AC-B1CF-2F268930F234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A1C18DF-8287-46AC-B1CF-2F268930F234}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

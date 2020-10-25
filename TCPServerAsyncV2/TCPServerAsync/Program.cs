@@ -7,6 +7,9 @@ namespace TCPServer
     {
         /// <summary>
         /// Funkcja główna aplikacji - wywołanie programu
+        /// Imie i nazwisko: Hubert Knioła
+        /// Grupa: I2-2
+        /// Index: 139644
         /// </summary>
         /// <param name="args">Parametr główny</param>
         static void Main(string[] args)

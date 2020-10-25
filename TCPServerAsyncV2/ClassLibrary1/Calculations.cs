@@ -7,6 +7,7 @@ namespace ServerLibrary
     /// </summary>
     public class Calculations
     {
+        #region Metods
         /// <summary>
         /// Metoda przetwarzająca dane podane przez użytkownika na wymagany wynik
         /// </summary>
@@ -17,6 +18,12 @@ namespace ServerLibrary
             return n * 2;
         }
 
+        /// <summary>
+        /// Metoda wykonująca działania matematyczne
+        /// </summary>
+        /// <param name="one">Pierwsza liczba podana przez użytkownika</param>
+        /// <param name="two">Druga liczba podana przez użytkownika</param>
+        /// <returns></returns>
         public static int[] calculator(int one, int two)
         {
             int[] tb = new int[4];
@@ -27,6 +34,13 @@ namespace ServerLibrary
             return tb;
         }
 
+        /// <summary>
+        /// Metoda odpowiedzialna za tworzenie tablicy zmiennych typu string
+        /// </summary>
+        /// <param name="one">Pierwsza liczba podana przez użytkownika</param>
+        /// <param name="two">Druga liczba podana przez użytkownika</param>
+        /// <param name="tb">Tablica zawierająca wynik operacji matematycznych na liczbach</param>
+        /// <returns></returns>
         public static string[] printCalculator(int one, int two, int[] tb)
         {
             string[] tbs = new string[4];
@@ -36,5 +50,6 @@ namespace ServerLibrary
             tbs[3] = one.ToString() + " ^ " + two.ToString() + " = " + tb[3].ToString() + "\r\n";
             return tbs;
         }
+        #endregion
     }
 }
