@@ -7,7 +7,7 @@ namespace ServerLibrary
     /// </summary>
     public class Calculations
     {
-        #region Metods
+        #region Methods
         /// <summary>
         /// Metoda przetwarzająca dane podane przez użytkownika na wymagany wynik
         /// </summary>

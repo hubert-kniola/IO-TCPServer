@@ -24,7 +24,7 @@ namespace ServerLibrary
         public delegate void TransmissionDataDelegate(TcpClient tcpClient);
         #endregion
 
-        #region Metods
+        #region Methods
         /// <summary>
         /// Konstruktor domyślny klasy
         /// </summary>

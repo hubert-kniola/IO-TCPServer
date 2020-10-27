@@ -46,7 +46,7 @@ namespace ServerLibrary
         protected byte[] buffer { get; set; } = new byte[1024];
         #endregion
 
-        #region Metods
+        #region Methods
         /// <summary>
         /// Metoda klasy ServerClass odpowiedzialna za sprawdzenie czy użytkownik chce rozłączyć się z serwerem
         /// </summary>

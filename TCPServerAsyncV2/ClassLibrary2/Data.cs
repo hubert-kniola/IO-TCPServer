@@ -26,7 +26,7 @@ namespace DataBaseLibrary
         }
         #endregion
 
-        #region Metods
+        #region Methods
         /// <summary>
         /// Metoda służąca do tworzenia połączenia i jego uruchomienia
         /// </summary>
